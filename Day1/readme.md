@@ -1,1 +1,1 @@
-Find he two numebrs in input.txt that add to 2020
+Find the two numebrs in input.txt that add to 2020
