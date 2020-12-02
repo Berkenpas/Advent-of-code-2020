@@ -1,3 +1,3 @@
 # Advent-of-code-2020
 
-Find the two numbers in the input.txt that add to 2020
+Coding practice through the fun Advent of Code 2020 event
